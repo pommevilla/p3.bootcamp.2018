@@ -3,7 +3,7 @@
 Materials for the Programming Bootcamp hosted by the [Predictive Plant Phenomics (P3) NRT program][p3-landing] on August 7-10, 2018.  These workshops are intended as a gentle introduction for those who have little to no experience in R, Python, and UNIX.  There are three parts to this workshop:
 
 * [*Introduction to R*][intro-to-r] taught by [Schuyler Smith][schuyler-github] (*in progress*)
-* *Introduction to Python* taught by [Paul Villanueva][paul-github]
+* [*Introduction to Python*][intro-to-python] taught by [Paul Villanueva][paul-github]
 * *Introduction to UNIX* taught by Shane Dooley.
 
 ## About These Workshop
