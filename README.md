@@ -4,7 +4,7 @@ Materials for the Programming Bootcamp hosted by the [Predictive Plant Phenomics
 
 * [*Introduction to R*][intro-to-r] taught by [Schuyler Smith][schuyler-github] (*in progress*)
 * [*Introduction to Python*][intro-to-python] taught by [Paul Villanueva][paul-github]
-* *Introduction to UNIX* taught by [Shane Dooley][shane-github].
+* [*Introduction to UNIX*][intro-to-unix] taught by [Shane Dooley][shane-github].
 
 ## About These Workshop
 
@@ -32,4 +32,5 @@ Send questions, comments, feedback, and hate mail to pev at iastate dot edu.
 [schuyler-github]: https://github.com/sdsmith1390
 [intro-to-python]: https://github.com/pommevilla/p3.bootcamp.python.2018
 [paul-github]: https://github.com/pommevilla
+[intro-to-unix]: https://github.com/skDooley/shell_tutorial
 [shane-github]: https://github.com/skDooley
