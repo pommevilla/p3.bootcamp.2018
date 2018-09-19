@@ -35,4 +35,4 @@ Send questions, comments, feedback, and hate mail to pev at iastate dot edu.
 [paul-github]: https://github.com/pommevilla
 [intro-to-unix]: https://github.com/skDooley/shell_tutorial
 [shane-github]: https://github.com/skDooley
-[intro-to-bio]: https://github.com/pommevilla/p3.bootcamp.bio.2018/blob/master/lessons/P3Bootcamp2018-01.ipynb
+[intro-to-bio]: https://github.com/pommevilla/p3.bootcamp.bio.2018
