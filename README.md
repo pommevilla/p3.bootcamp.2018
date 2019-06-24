@@ -7,7 +7,7 @@ Materials for the Programming Bootcamp hosted by the [Predictive Plant Phenomics
 * [*Introduction to UNIX*][intro-to-unix] taught by [Shane Dooley][shane-github].
 * [*Introduction to Biopython, Jupyter, and Github*][intro-to-bio] taught by [Paul Villanueva][paul-github]
 
-## About These Workshop
+## About These Workshops
 
 The Predictive Plant Phenomics NRT is an interdisciplinary program combining plant biology, engineering, and data science.  However, since most of the P3 students have backgrounds in the biological sciences, they likely haven't had substantial programming training.  These workshops are the annual Programming Bootcamps are an introduction for the incoming class of P3 students (and anyone else that would like to attend) to programming basics.
 
